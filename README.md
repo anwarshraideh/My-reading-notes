@@ -5,4 +5,6 @@ I am Anwar shraideh , an software enginner graduated from JUST 2 years ago, I  d
 | my Reading      | Description |
 | -----------     | ----------- |
 | Paragraph       |[GrowthMindset](https://anwarshraideh.github.io/reading-notes102/growth-mind)|
-| Paragraph       |[Text editor](https://anwarshraideh.github.io/reading-notes102/text editor)|
+| Paragraph       |[TextEditor](https://anwarshraideh.github.io/reading-notes102/text editor)|
+| Paragraph       |[Markdown](https://anwarshraideh.github.io/reading-notes102/Markdown)|
+
