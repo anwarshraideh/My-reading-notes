@@ -36,13 +36,13 @@ You can combine them by  *** italic and bold ***
 
 ### Images syntax 
 
-  ![AnyText](url) 
+-- ![AnyText](url) 
 
 ### Link syntax 
 
 ### Links 
 
-[Any text](url) 
+-- [Any text](url)  
 
 ### Inline code
 I think you should use an ` ` and you put any code elemnt in it .
