@@ -9,15 +9,15 @@ It is easy-to-use syntax for styling all forms of writing on the GitHub platform
 
 ### header  
 
-To type the header <h1> , <h2> , ..... <h6> we use the hash tag (#): 
-# This is the first level header  
-###### This is  the six level header
+To type the header h1 , h2 , ... h6 we use the hash tag (#): 
+#This is the first level header  
+######This is  the six level header
 
 
 ### To make the text bold or italic we use * :
 *This text will be italic*
-**This text will be bold**
-You can combine them by  *** italic and bold *** 
+** This text will be bold **
+
 
 ### Unordered list syntax 
 
