@@ -13,7 +13,7 @@ Function Return :
 
 When JavaScript reaches a return statement, the function will stop executing.
 
-If the function was invoked from a statement, JavaScript will "return" to execute the code after the invoking statement.
+If the function was invoked from a statement, JavaScript will "return" to execute the code after the invoking statement .
 
 Functions often compute a return value .
 
@@ -22,5 +22,5 @@ function myFunction(a, b)
   return a * b;             // Function returns the product of a and b
 }
 
-**********************************************
+*********************************************
 
