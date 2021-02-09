@@ -11,6 +11,7 @@ I am Anwar shraideh , an software enginner graduated from JUST 2 years ago, I  d
 | Paragraph 5     |[HTMLChapters](https://anwarshraideh.github.io/reading-notes102/HTMLChapters)|
 | Paragraph 6     |[javaRead](https://anwarshraideh.github.io/reading-notes102/javaRead)|
 | Paragraph 7     |[loopsAndoperator](https://anwarshraideh.github.io/reading-notes102/loopsAndoperator)|
+| Paragraph 8     |[functionsRead](https://anwarshraideh.github.io/reading-notes102/functionsRead)|
 
 
 
