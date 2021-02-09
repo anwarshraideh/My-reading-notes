@@ -1,3 +1,4 @@
+
 Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements). 
 
 function name() {
@@ -7,7 +8,7 @@ function name() {
 you can call the function :
 name();
 
-*********************************************** 
+**********************************************
 Function Return :
 
 When JavaScript reaches a return statement, the function will stop executing.
@@ -21,4 +22,5 @@ function myFunction(a, b)
   return a * b;             // Function returns the product of a and b
 }
 
+**********************************************
 
