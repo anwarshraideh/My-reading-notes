@@ -27,4 +27,6 @@ I am Anwar shraideh , an software enginner graduated from JUST 2 years ago, I  d
 | -----------           | -----------       |
 | class-01              | [class-01](https://anwarshraideh.github.io/My-reading-notes/class-01)|
 | class-02              | [class-02](https://anwarshraideh.github.io/My-reading-notes/class-02)|
+| Read:03               | [Read:03](https://anwarshraideh.github.io/My-reading-notes/Read:03)|
+
 
