@@ -90,14 +90,12 @@ There are some text elements that are not intended to affect the structure of yo
 - browsers will show the contents of an < em> element in italic
 
 - The < q > element is used for shorter quotes that sit within a paragraph
--If you use an abbreviation or an acronym, then the < abbr > element can be used. A title attribute on the opening tag is used to specify the full term.
-
-
-- The (<dfn>) element is used to indicate the defining instance of a new term.
-- The (<address>) element has quite a specific use: to contain contact details for the author of the page.
-- The (<ins>) element can be used to show content that has been inserted into a document, while
-- The (<del>) element can show text that has been deleted from it.
-- The (<s>) element indicates something that is no longer accurate or relevant (but that should not be deleted).
+-If you use an abbreviation or an acronym, then the < abbr > element can be used. A title attribute on the opening tag is used to specify the full term. 
+- The < dfn > element is used to indicate the defining instance of a new term.
+- The < address > element has quite a specific use: to contain contact details for the author of the page.
+- The < ins > element can be used to show content that has been inserted into a document, while
+- The < del >  element can show text that has been deleted from it.
+- The < s > element indicates something that is no longer accurate or relevant (but that should not be deleted).
 
 ***************************************************************************************************************
 
