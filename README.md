@@ -39,3 +39,4 @@ I am Anwar shraideh , an software enginner graduated from JUST 2 years ago, I  d
 | Read:12              | [Read:12](https://anwarshraideh.github.io/My-reading-notes/read12)|
 | Read:13              | [Read:13](https://anwarshraideh.github.io/My-reading-notes/read13)|
 | Read:14a              | [Read:14a](https://anwarshraideh.github.io/My-reading-notes/read14a)|
+| Read:14b              | [Read:14b](https://anwarshraideh.github.io/My-reading-notes/read14b)|
