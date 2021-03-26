@@ -2,7 +2,7 @@
 
 I am Anwar shraideh , an software enginner graduated from JUST 2 years ago, I  didnt worked before and now I hope to practise programming .
 
-# Code 102 Reading Notes
+# Code 102 - Intro to Software Development (Reading Notes)
 
 **************************************************************************
 
@@ -19,7 +19,7 @@ I am Anwar shraideh , an software enginner graduated from JUST 2 years ago, I  d
 | Paragraph 9     |[cssColors](https://anwarshraideh.github.io/reading-notes102/cssColors)|
 
 
-# Code 201 Reading Notes
+#  Code 201 - Foundations of Software Development (Reading Notes)
 
 **************************************************************************
 
@@ -40,3 +40,12 @@ I am Anwar shraideh , an software enginner graduated from JUST 2 years ago, I  d
 | Read:13              | [Read:13](https://anwarshraideh.github.io/My-reading-notes/read13)|
 | Read:14a              | [Read:14a](https://anwarshraideh.github.io/My-reading-notes/read14a)|
 | Read:14b              | [Read:14b](https://anwarshraideh.github.io/My-reading-notes/read14b)|
+
+**************************************************************************
+
+# Code 301 - Intermediate Software Development (Reading Notes)
+
+| ***my Reading***      | ***Description*** |
+| -----------           | -----------       |
+| Read01              | [Read01](https://anwarshraideh.github.io/My-reading-notes/Read01)|
+
