@@ -54,3 +54,4 @@ I am Anwar shraideh , an software enginner graduated from JUST 2 years ago, I  d
 | Read05              | [Read05](https://anwarshraideh.github.io/My-reading-notes/HEROKU)|
 | Read06              | [Read06](https://anwarshraideh.github.io/My-reading-notes/NODE)|
 | Read07              | [Read07](https://anwarshraideh.github.io/My-reading-notes/REST)|
+| Read08              | [Read08](https://anwarshraideh.github.io/My-reading-notes/SQLa)|
