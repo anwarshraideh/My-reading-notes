@@ -9,7 +9,7 @@ I am Anwar shraideh , an software enginner graduated from JUST 2 years ago, I  d
 | ***my Reading***| ***Description***  |
 | -----------     | ----------- |
 | Paragraph 1     |[GrowthMindset](https://anwarshraideh.github.io/reading-notes102/growth-mind)|
-| Paragraph 2     |[TextEditor](https://anwarshraideh.github.io/reading-notes102/text editor)|
+| Paragraph 2     |[texteditor](https://anwarshraideh.github.io/reading-notes102/texteditor)|
 | Paragraph 3     |[Markdown](https://anwarshraideh.github.io/reading-notes102/Markdown)|
 | Paragraph 4     |[introduction](https://anwarshraideh.github.io/reading-notes102/introduction)|
 | Paragraph 5     |[HTMLChapters](https://anwarshraideh.github.io/reading-notes102/HTMLChapters)|
@@ -59,3 +59,4 @@ I am Anwar shraideh , an software enginner graduated from JUST 2 years ago, I  d
 | Read10              | [Read10](https://anwarshraideh.github.io/My-reading-notes/read100)|
 | Read11              | [Read11](https://anwarshraideh.github.io/My-reading-notes/Read:111)|
 | Read12              | [Read12](https://anwarshraideh.github.io/My-reading-notes/Read12EJS)|
+| Read13              | [Read13](https://anwarshraideh.github.io/My-reading-notes/Read133)|
